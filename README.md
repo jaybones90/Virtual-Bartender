@@ -12,7 +12,7 @@ Visit live site [here](https://jaybones90.github.io/Virtual-Bartender/)
 * _Marko Ludlow_
 
 ## Description
-This site first asks the user if they are of age to view the age restricted content. Once in the site, users can choose to "go to the bar" and have a random drink displayed to them by the virtual bartender. They are also able to navigate to a liquor tree style drink menu with descriptions of each drink available at the bar.
+This is a virtual bartender application where the bartender will pour a random drink and tell a joke when clicked. The alcohol bottles in the liquor tree are also clickable and displays different drinks based on the liquor that was clicked. 
 
 ## Project Specs:
 | Behavior |  Input   |  Output  |
