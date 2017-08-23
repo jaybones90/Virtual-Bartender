@@ -3,11 +3,11 @@
 
 #### _This app will display a random drink and show drinks based on alcohol type chosen by user. {2017}_
 
-Visit live site [here](http://jamesmilanhiggins.github.io/online-drink-info)
+Visit live site [here](https://jaybones90.github.io/Virtual-Bartender/)
 
 #### By _**{Contributors}**_
-* _James Higgins_
 * _Jason Ainsworth_
+* _James Higgins_
 * _Nick Powell_
 * _Marko Ludlow_
 
