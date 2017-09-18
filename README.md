@@ -1,18 +1,18 @@
 
-# _Virtual Bartender_
+# Virtual Bartender
 
-#### _This app will display a random drink and show drinks based on alcohol type chosen by user. {2017}_
+#### This app will display a random drink and show drinks based on alcohol type chosen by user
 
 Visit live site [here](https://jaybones90.github.io/Virtual-Bartender/)
 
-#### By _**{Contributors}**_
-* _Jason Ainsworth_
-* _James Higgins_
-* _Nick Powell_
-* _Marko Ludlow_
+#### Contributors
+* Jason Ainsworth
+* James Higgins
+* Nick Powell
+* Marko Ludlow
 
 ## Description
-This is a virtual bartender application where the bartender will pour a random drink and tell a joke when clicked. The alcohol bottles in the liquor tree are also clickable and displays different drinks based on the liquor that was clicked. 
+This is a virtual bartender application where the bartender will pour a random drink and tell a joke when clicked. The alcohol bottles in the liquor tree are also clickable and displays different drinks based on the liquor that was clicked.
 
 ## Project Specs:
 | Behavior |  Input   |  Output  |
@@ -28,33 +28,29 @@ This is a virtual bartender application where the bartender will pour a random d
 
 ## Setup/Installation Requirements
 
-* _Clone from gitHub repository_
-* _Navigate into cloned directory folder_
-* _Open index.html file in web browser_
-* _Navigate site_
+* Clone from gitHub repository
+* Navigate into cloned directory folder
+* Open index.html file in web browser
+* Navigate site
 
-[Link to live site] (http://jamesmilanhiggins.github.io/online-drink-info)
 ## Known Bugs
 
-_Page has overlap issues if minimized too small. No other issues known at this time._
+Page has overlap issues if minimized too small. No other issues known at this time.
 
 ## Support and contact details
 
-_Please comment on gitHub or email Marko after 10pm on his cell phone._
+Please email jasoncruze@gmail.com or comment on the repo
 
 ## Technologies Used
 
-_This site was built using:_
-* _JavaScript_
-* _HTML_
-* _CSS_
-* _JQuery_
-* _Bootstrap_
-* _Atom text editor_
+This site was built using:
+* JavaScript
+* HTML
+* CSS
+* JQuery
+* Bootstrap
 
 
 ### License
-
-*This site is licensed under MIT*
-
-Copyright (c) 2017 _{James Higgins, Jason Ainsworth, Nick Powell, Marko Ludlow}_
+MIT
+Copyright (c) 2017
